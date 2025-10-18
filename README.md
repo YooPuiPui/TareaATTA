@@ -4,8 +4,8 @@ Este script implementa y compara el rendimiento de tres algoritmos para la multi
 
 Los algoritmos implementados son:
 1.  **Algoritmo Tradicional** (Iterativo, $O(n^3)$)
-2.  [cite_start]**Algoritmo DR1** (Recursivo, 8 multiplicaciones)
-3.  [cite_start]**Algoritmo DR2** (Recursivo de Strassen, 7 multiplicaciones)
+2.  **Algoritmo DR1** (Recursivo, 8 multiplicaciones)
+3.  **Algoritmo DR2** (Recursivo de Strassen, 7 multiplicaciones)
 
 ## Requisitos
 
